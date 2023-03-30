@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "platform_hardware_samsung",
+    "target_path": "hardware/samsung"
+  },
+  {
+    "repository": "platform_kernel_samsung_exynos9810",
+    "target_path": "kernel/samsung/exynos9810"
+  },
+  {
+    "repository": "WindowsDev0/vendor_samsung_exynos9810-common-V2",
+    "target_path": "vendor/samsung/exynos9810-common",
+  }
+]
